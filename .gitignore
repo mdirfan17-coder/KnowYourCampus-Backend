@@ -1,4 +1,4 @@
-# Compiled Java files
+# Java compiled files
 *.class
 
 # Build folders
@@ -6,6 +6,6 @@ bin/
 out/
 target/
 
-# IDE folders
+# IDE files
 .idea/
 .vscode/
